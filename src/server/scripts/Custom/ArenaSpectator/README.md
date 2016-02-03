@@ -34,5 +34,5 @@ After compiling:
 your auth database
 
 Credits:
-Flameshot http://flameshot.tk/
-LilleCarl
+- Flameshot http://flameshot.tk/
+- LilleCarl
