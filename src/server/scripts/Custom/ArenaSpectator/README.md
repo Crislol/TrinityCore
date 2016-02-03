@@ -33,5 +33,5 @@ After compiling:
 - Run `rbac_linked_permissions.sql` to your auth database
 
 Credits:
-Flameshot http://flameshot.tk/
-LilleCarl
+- Flameshot http://flameshot.tk/
+- LilleCarl
