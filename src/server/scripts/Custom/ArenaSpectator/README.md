@@ -11,7 +11,7 @@ they are in arena.You can spectate a
 
 Available as:
 - Direct merge: https://github.com/Flameshot/TrinityCore/tree/Arena-Spectator
-- Diff/Patch: http://flameshot.tk/ipbdownload/Arena-Spectator.diff
+- Diff/Patch: http://flameshot.tk/forum/index.php?/files/file/18-arena-spectator/
 
 Using direct merge:
 - open git bash to source location
@@ -30,7 +30,8 @@ After compiling:
 - Navigate to `\src\server\scripts\Custom\ArenaSpectator\sql\`
 - Run `Arena_Spectator NPC.sql` to your world database
 - Run `rbac_permissions.sql` to your auth database
-- Run `rbac_linked_permissions.sql` to your auth database
+- Run `rbac_linked_permissions.sql` to 
+your auth database
 
 Credits:
 Flameshot http://flameshot.tk/
